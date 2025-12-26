@@ -1,2 +1,2 @@
 # RV-Premium-Plus
-Personal streaming service
+a personal project to stop ads from ruining my life
